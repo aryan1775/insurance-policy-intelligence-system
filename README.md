@@ -138,7 +138,7 @@ streamlit run app.py
 
 **Aryan Shetty**
 
-- LinkedIn:https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aryan-shetty-247746170
+- LinkedIn:https://www.linkedin.com/in/aryan-shetty-247746170
 - GitHub: https://github.com/aryan1775
 
 ## 📸 Application Preview
