@@ -140,3 +140,21 @@ streamlit run app.py
 
 - LinkedIn:https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aryan-shetty-247746170
 - GitHub: https://github.com/aryan1775
+
+## 📸 Application Preview
+
+### Home Screen
+
+![Home Screen](home.png)
+
+---
+
+### Upload PDF
+
+![Upload PDF](uploadpdf.png)
+
+---
+
+### AI Response
+
+![AI Response](airesponse.png)
